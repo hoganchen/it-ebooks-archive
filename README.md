@@ -72,6 +72,11 @@
 + [在线阅读](http://www.kancloud.cn/digest/code-guide)
 + [PDF格式](http://www.kancloud.cn/digest/code-guide)
 
+## 不可替代的团队领袖培养计划
+
++ [在线阅读](https://leader.js.cool/)
++ [站点源码](https://github.com/willin/leader.js.cool)
+
 ## 14天学会安卓开发
 
 + [在线阅读](https://www.gitbook.com/book/wizardforcel/android-14-days/details)
